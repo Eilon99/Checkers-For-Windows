@@ -39,7 +39,7 @@ CheckersForWindows/
     ├── FormGame.cs
     ├── FormSettings.cs
     └── UI files…
-
+```text
 🖼️ Screenshots:
 
 Game Settings
