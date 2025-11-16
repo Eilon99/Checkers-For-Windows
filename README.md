@@ -23,7 +23,7 @@ Features a clean separation between backend logic and frontend UI, following goo
 
 ## 🧱 Architecture Overview
 
-
+```text
 CheckersForWindows/
 │
 ├── backend
@@ -39,7 +39,7 @@ CheckersForWindows/
     ├── FormGame.cs
     ├── FormSettings.cs
     └── UI files…
-```text
+```
 🖼️ Screenshots:
 
 Game Settings
