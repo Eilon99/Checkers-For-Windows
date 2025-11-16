@@ -23,7 +23,7 @@ Features a clean separation between backend logic and frontend UI, following goo
 
 ## 🧱 Architecture Overview
 
-```text
+
 CheckersForWindows/
 │
 ├── backend
