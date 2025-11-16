@@ -44,18 +44,17 @@ CheckersForWindows/
 
 Game Settings
 
-<img width="390" height="448" alt="CheckersValidMove" src="https://github.com/user-attachments/assets/913152c5-5317-49a2-8af3-0bf0cbe31bbf" />
+<img width="378" height="392" alt="CheckersGameSetting" src="https://github.com/user-attachments/assets/55cab616-27f3-4ec0-9fa8-3ad59c8fb49e" />
 
 
 Game Board
 
-<img width="378" height="392" alt="CheckersGameSetting" src="https://github.com/user-attachments/assets/55cab616-27f3-4ec0-9fa8-3ad59c8fb49e" />
+<img width="390" height="448" alt="CheckersBoard" src="https://github.com/user-attachments/assets/ab73ca48-4057-4bce-b74c-212ac41961aa" />
 
 
 Valid Move Highlighting
 
-<img width="390" height="448" alt="CheckersBoard" src="https://github.com/user-attachments/assets/ab73ca48-4057-4bce-b74c-212ac41961aa" />
-
+<img width="390" height="448" alt="CheckersValidMove" src="https://github.com/user-attachments/assets/913152c5-5317-49a2-8af3-0bf0cbe31bbf" />
 
 
 
